@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Flashlight</string>
+    <string name="red_title">Red</string>
+    <string name="green_title">Green</string>
+</resources>
